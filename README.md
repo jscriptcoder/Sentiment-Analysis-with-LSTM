@@ -14,3 +14,5 @@ Pytorch implementation of a Sentiment Analysis using Recurrent Neural Networks w
 ### Related Work
 
 I'm using an embedding layer as the first layer of the network. I did some works on implementing [Skip-gram Word2Vec](https://github.com/jscriptcoder/Skip-gram-Word2Vec). This is a PyTorch implementation of Word2Vec algorithm using the Skip-gram architecture and Negative Sampling to improve both the quality of the vectors and the training speed. The main porpuse of this project is for me to learn about embedding words for use in Natural Language Processing.
+
+<!-- sort 1 -->
